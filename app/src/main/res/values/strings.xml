@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FlightBot</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="spinner_title">Select Category</string>
+    <string name="fluent_flyer_Program">Fluent flyer Program</string>
+    <string-array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string name="title_activity_expend">ExpendActivity</string>
+    <string name="title_activity_result">ResultActivity</string>
+</resources>
